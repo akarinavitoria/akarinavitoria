@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akarinavitoria
-- 👀 I’m interested in python, front-end and javascript.
-- 🌱 I’m currently learning developer
-- 📫 How to reach me @akarinavitoria in the instagram.
+- Iniciante em programação.
+- Foco em python, front-end and javascript.
+- 🌱 Procurando uma forma de agregar algo ao mundo.
+- Você vai me achar no Instagram como @akarinavitoria.
