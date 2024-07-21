@@ -1,16 +1,17 @@
-## Hi there 👋
+HI! eu sou a Karina Vitória😊
+##
+- Desenvolvedora Iniciante;
+- 🌱 Buscando agregar algo ao mundo!
 
-<!--
-**akarinavitoria/akarinavitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+SKILLS
+<div>
+ <img alt="karina-python" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+CONTATOS
+<div>
+  <a href="https://www.instagram.com/akarinavitoria" target="_blank"> <img src="https://img.shields.io/badge/Instagram-d90429?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/akarinavit%C3%B3ria/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-023e8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
