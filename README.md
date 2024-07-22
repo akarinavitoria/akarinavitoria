@@ -6,6 +6,13 @@
 
 ##
 
+<h3 align="left">SOBRE MIM</h3>
+
+- 21 anos;
+- 🌱Buscando agregar algo ao mundo.
+
+##
+
 <br clear="both">
 
 <div align="left">
@@ -15,28 +22,15 @@
 
 ##
 
-<h3 align="left">SOBRE MIM</h3>
-
-##
-
-- 21 anos;
-- 🌱Buscando agregar algo ao mundo.
-
-##
-
 <h3 align="left">MINHAS SKILLS</h3>
-
-##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">CONTATOS</h3>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/akarinavitoria" target="_blank">
