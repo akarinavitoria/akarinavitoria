@@ -1,10 +1,10 @@
 <h3 align="left">OLÁ, SEJA BEM VINDO AO MEU PERFIL DO GITHUB!</h3>
 
-###
+##
 
-<p align="left"> - Meu nome é Karina Vitória, desenvolvedora iniciante de python; São paulo, Brasil.</p>
+- Meu nome é Karina Vitória, desenvolvedora iniciante de python; São paulo, Brasil.</p>
 
-###
+##
 
 <br clear="both">
 
@@ -13,19 +13,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akarinavitoria&radius=0&theme=chartreuse-dark&area=true&order=5&hide_border=true" height="145" alt="activity-graph graph"  />
 </div>
 
-###
+##
 
 <h3 align="left">SOBRE MIM</h3>
 
-###
+##
 
-<p align="left"> - 21 anos;<br> - 🌱Buscando agregar algo ao mundo.</p>
+- 21 anos;
+- 🌱Buscando agregar algo ao mundo.
 
-###
+##
 
 <h3 align="left">MINHAS SKILLS</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -46,7 +47,7 @@
   </a>
 </div>
 
-###
+##
 
 <br clear="both">
 
