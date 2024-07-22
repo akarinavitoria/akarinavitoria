@@ -1,11 +1,20 @@
-HI! eu sou a Karina Vitória😊
+OLÁ, SEJA BEM VINDO AO MEU GITHUB!!
 ##
+- Meu nome é Karina Vitória, desenvolvedora iniciante de python; São paulo, Brasil.
 
 ##
-SKILLS
+SOBRE MIM
+- 21 anos;
+- Buscando agregar algo ao mundo.
+
+##
+MINHAS SKILLS
 <div>
  <img alt="karina-python" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
+
+##
+MINHAS MÉTRICAS
 
 ##
 CONTATOS
