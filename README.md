@@ -1,7 +1,5 @@
 HI! eu sou a Karina Vitória😊
 ##
-- Desenvolvedora Iniciante;
-- 🌱 Buscando agregar algo ao mundo!
 
 ##
 SKILLS
