@@ -35,12 +35,12 @@
 <div align="left">
 
 <a href="https://x.com/akarinav_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X logo"</a>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="X logo"</a>
   
   <a href="https://www.instagram.com/akarinavitoria" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d90429&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" </a>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d90429&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" </a>
   <a href="https://www.linkedin.com/in/akarinavit%C3%B3ria/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=023e8a&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"</a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=023e8a&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"</a>
   
 </div>
 
