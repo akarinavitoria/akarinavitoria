@@ -2,10 +2,9 @@
 
 ##
 
-<p>
-- Meu nome é Karina Vitória, desenvolvedora iniciante
+- Meu nome é Karina Vitória, desenvolvedora iniciante.
 - FrontEnd e Python;
--  São paulo, Brasil.</p>
+- São paulo, Brasil. 
 
 ##
 
