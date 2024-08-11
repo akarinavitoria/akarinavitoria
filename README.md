@@ -18,7 +18,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akarinavitoria&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akarinavitoria&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=true&order=1" height="145" alt="stats graph"/>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akarinavitoria&radius=0&theme=chartreuse-dark&area=true&order=5&hide_border=true" height="145" alt="activity-graph graph"/>
 </div>
 
