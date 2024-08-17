@@ -3,7 +3,7 @@
 ##
 
 - Meu nome é Karina Vitória, desenvolvedora iniciante.
-- FrontEnd e Python;
+- Front End;
 - São paulo, Brasil. 
 
 ##
