@@ -1,4 +1,4 @@
-<h3 align="left">OLÁ, SEJA BEM VINDO AO MEU PERFIL DO GITHUB!</h3>
+<h3 align="center">OLÁ, SEJA BEM VINDO AO MEU PERFIL DO GITHUB!</h3>
 
 ##
 
@@ -8,7 +8,7 @@
 
 ##
 
-<h3 align="left">SOBRE MIM</h3>
+<h3 align="center">SOBRE MIM</h3>
 
 - 21 anos;
 - 🌱Buscando agregar algo ao mundo.
